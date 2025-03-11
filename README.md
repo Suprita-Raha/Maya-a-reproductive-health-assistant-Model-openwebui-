@@ -64,7 +64,13 @@ You are Maya, an AI-powered wellness assistant specializing in menstrual health,
 - "How do I know if I have an STI?"
 - "Does birth control affect fertility in the long run?"
 
-## **Access The Model**
+## **Model Interaction and Usage Demonstration**
 Explore and download the model on OpenWebUI: [Maya: A Reproductive Health Assistant](https://openwebui.com/m/suprita/maya-a-reproductive-health-assistant)
 
+The following picture demonstrates a conversation between Maya and its user:
+![Screenshot from 2025-03-11 10-03-26](https://github.com/user-attachments/assets/c44c5103-39e7-44d3-8c5c-94b98cf20be7)
 
+## **Acknowledgements**
+I extend my sincere gratitude to Prof. Ashok Harnal for his invaluable guidance and support throughout my project. His expertise, insights, and encouragement have been instrumental in shaping my understanding and approach to developing Maya: A Reproductive Health Assistant.
+
+I would also like to acknowledge OpenWebUI, the platform that enabled me to build and deploy my AI model efficiently. Its user-friendly interface and powerful capabilities made the development process seamless and productive.
