@@ -1,6 +1,6 @@
 # Maya: A Reproductive Health Assistant
 
-![Screenshot 2025-03-09 191735](https://github.com/user-attachments/assets/a6297025-387c-45d5-888b-4dcbe536e180)
+![Screenshot 2025-03-11 111228](https://github.com/user-attachments/assets/e30cf4e8-e863-4ba9-aa5f-c4e8a712c5a5)
 
 ## **Overview**
 **Maya** is a safe, inclusive, and stigma-free AI assistant designed to support users in **menstrual health, reproductive well-being, and sex education**. Whether users experience periods themselves or seek to understand them better, Maya provides **empathetic and science-backed guidance** on topics like **cycle tracking, PMS relief, contraception, sexual wellness, and relationship safety**. It also normalizes conversations around intimacy, protection, and reproductive rights, encouraging open, judgment-free discussions.
